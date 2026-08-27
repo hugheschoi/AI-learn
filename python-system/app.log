@@ -1,0 +1,16 @@
+2026-08-27 16:57:54,539 - INFO - 不会显示
+2026-08-27 16:57:54,540 - WARNING - 会显示
+2026-08-27 16:57:54,540 - ERROR - 会显示
+2026-08-27 17:01:58,670 - INFO - 不会显示
+2026-08-27 17:01:58,670 - WARNING - 会显示
+2026-08-27 17:01:58,670 - ERROR - 会显示
+2026-08-27 17:01:58,670 - ERROR - 捕获到异常：division by zero
+Traceback (most recent call last):
+  File "/Users/caizhuangbing/Desktop/AI-learn/python-system/9.logger.py", line 29, in <module>
+    1 / 0
+    ~~^~~
+ZeroDivisionError: division by zero
+2026-08-27 17:09:50,595 - INFO - 程序启动
+2026-08-27 17:10:30,535 - INFO - 程序启动
+2026-08-27 17:11:45,010 - INFO - 程序启动
+2026-08-27 17:14:11,752 - my_app.database - INFO - 程序启动
