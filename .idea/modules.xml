@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/AI-learn.iml" filepath="$PROJECT_DIR$/.idea/AI-learn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/ai-basic.iml" filepath="$PROJECT_DIR$/.idea/ai-basic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/harness.iml" filepath="$PROJECT_DIR$/.idea/harness.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/mcp-basic.iml" filepath="$PROJECT_DIR$/.idea/mcp-basic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/project.iml" filepath="$PROJECT_DIR$/.idea/project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/python-system.iml" filepath="$PROJECT_DIR$/.idea/python-system.iml" />
+    </modules>
+  </component>
+</project>
